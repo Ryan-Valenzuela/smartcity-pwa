@@ -3,8 +3,9 @@
   "short_name": "HazardLite",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#0f172a",
+  "background_color": "#020617",
   "theme_color": "#0f172a",
+  "description": "Demo hazard map PWA for community education.",
   "icons": [
     {
       "src": "/icons/icon-192.png",
